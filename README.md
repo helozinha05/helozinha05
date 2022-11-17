@@ -1,6 +1,10 @@
-- 👋 Hi, I’m @helozinha05
-- Meu emailo de  contato é heloisa.rodrigues05@escola.pr.gov.br 
-- 👀 I’m interested in aprender mais
+- # Sobre mim.
+- ## Editando perfil:
+- 👱‍♀️ Sou  @helozinha05
+- 🤠 Meu email de contato é heloisa.rodrigues05@escola.pr.gov.br
+- 🌟Moro em Ipiranga, Paraná.
+- 🐮Gosto de bovinos.
+- 🐴 Gosto de cavalos.
 - 🌱 I’m currently learning linguagem de programação
 - 💞️ I’m looking to collaborate on projetos iniciantes.
 <!---
